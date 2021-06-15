@@ -1,12 +1,16 @@
-## Bem vindo
+# Bruno
+
+## Fundamentos de Eletromagnetismo
 
 Você pode usar o [editor on GitHub](https://github.com/brunufc/eletromag.github.io/edit/gh-pages/index.md) para manter e visualizar o conteúdo do seu site em arquivos Markdown.
 
 Sempre que você se compromete com este repositório, GitHub Pages irá executar Jekyll para reconstruir as páginas em seu site, a partir do conteúdo em seus arquivos Markdown.
 
-### Markdown
+Este trabalho visa aborda o seguinte tema:
 
-Markdown é uma sintaxe leve e fácil de usar para estilizar sua escrita. Inclui convenções para
+### Intensidade Relativa das Forças Gravitacionais e Elétricas
+
+A força gravitacional é desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, e a força elétrica é muito menor que a força gravitacional.
 
 ```markdown
 Syntax highlighted code block
