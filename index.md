@@ -1,10 +1,6 @@
-# <CENTER>Bruno</CENTER>
+# <CENTER>Bruno e Guilherme... salve galera</CENTER>
 
 ## Fundamentos de Eletromagnetismo
-
-<P>Você pode usar o [editor on GitHub](https://github.com/brunufc/eletromag.github.io/edit/gh-pages/index.md) para manter e visualizar o conteúdo do seu site em arquivos Markdown.</P>
-
-<P>Sempre que você se compromete com este repositório, GitHub Pages irá executar Jekyll para reconstruir as páginas em seu site, a partir do conteúdo em seus arquivos Markdown.</P>
 
 <P>Este trabalho visa aborda o seguinte tema:</P>
 
@@ -32,10 +28,14 @@ Syntax highlighted code block
 
 Para obter mais detalhes, consulte [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Exercite seu cerebro
 
 Seu site Pages usará o layout e estilos do tema Jekyll que você selecionou nas [repository settings](https://github.com/brunufc/eletromag.github.io/settings/pages). . O nome deste tema é salvo no _config.ymlarquivo de configuração do Jekyll .
 
-### Support or Contact
+### Curiosidades
 
 Está tendo problemas com o Pages? Verifique nossa [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) e nós o ajudaremos a resolver o problema.
+
+### Referências Bibliograficas
+
+Nossa imaginação
