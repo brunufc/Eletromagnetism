@@ -42,4 +42,4 @@ Para obter mais detalhes, consulte [GitHub Flavored Markdown](https://guides.git
 
 Seu site usará o layout e estilos do tema Jekyll que você selecionou nas [repository settings](https://github.com/brunufc/eletromag.github.io/settings/pages). . O nome deste tema é salvo no _config.ymlarquivo de configuração do Jekyll .
 
-Está tendo problemas com o Pages? Verifique nossa [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) e nós o ajudaremos a resolver o problema.
+Está tendo problemas com o Pages? Verifique nossa [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) e nós o ajudaremos a resolver o problema...
