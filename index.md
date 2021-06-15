@@ -1,4 +1,6 @@
-# <CENTER>Fundamentos de Eletromagnetismo</CENTER>
+<BODY background=IMG210615-001.png>
+
+ # <CENTER>Fundamentos de Eletromagnetismo</CENTER>
 
 <P>Este trabalho visa abordar o seguinte tema:</P>
 
@@ -6,7 +8,11 @@
 
 A força gravitacional é desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, e a força elétrica é muito menor que a força gravitacional.
 
+</BODY>
+
 ### Exercite seu cerebro
+
+(YOUNG & FREEDMAN) Uma partícula α (o núcleo do átomo de hélio) possui massa m=6,64.10-27kg e carga q=+2e=3,2.10-19C. Compare o módulo da força de repulsão elétrica entre duas partículas α com o módulo da força de atração gravitacional entre elas.
 
  [IMG210615-001](https://user-images.githubusercontent.com/85965849/122131575-bf0c0780-ce0f-11eb-976b-562d1a31da1b.png)
 
