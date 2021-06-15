@@ -8,6 +8,8 @@ A força gravitacional é desprezível em comparação à força elétrica. Isso
 
 ### Exercite seu cerebro
 
+ [IMG210615-001](https://user-images.githubusercontent.com/85965849/122131575-bf0c0780-ce0f-11eb-976b-562d1a31da1b.png)
+
  Alguma questão e sua resolução
 
 ### Curiosidades
