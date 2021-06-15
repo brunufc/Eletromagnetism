@@ -8,11 +8,13 @@
 
 ### Exercite seu cerebro
 
-Alguma questão e sua resolução
+system(“color 1F”) Alguma questão e sua resolução
 
 ### Curiosidades
 
-Sobre as figuras envolvidas na formulação das duas leis
+int main()
+{
+system(“color 1F”)Sobre as figuras envolvidas na formulação das duas leis
 
 ### Referências Bibliograficas
 
