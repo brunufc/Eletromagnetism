@@ -1,4 +1,4 @@
-# Bruno
+# <CENTER>Bruno</CENTER>
 
 ## Fundamentos de Eletromagnetismo
 
