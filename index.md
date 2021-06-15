@@ -1,6 +1,7 @@
 # <CENTER>Bruno e Guilherme... salve galera</CENTER>
 
-</CENTER>## Fundamentos de Eletromagnetismo</CENTER>
+</CENTER>
+## Fundamentos de Eletromagnetismo</CENTER>
 
 <P>Este trabalho visa abordar o seguinte tema:</P>
 
