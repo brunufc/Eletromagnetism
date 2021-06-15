@@ -1,8 +1,8 @@
 # <CENTER>Bruno e Guilherme... salve galera</CENTER>
 
-## Fundamentos de Eletromagnetismo
+## </CENTER>Fundamentos de Eletromagnetismo</CENTER>
 
-<P>Este trabalho visa aborda o seguinte tema:</P>
+<P>Este trabalho visa abordar o seguinte tema:</P>
 
 ### Intensidade Relativa das Forças Gravitacionais e Elétricas
 
