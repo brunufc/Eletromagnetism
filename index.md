@@ -4,17 +4,15 @@
 
 ### <color=#00FF00>Intensidade Relativa das Forças Gravitacionais e Elétricas
 
-<HR color=#00FF00>A força gravitacional é desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, e a força elétrica é muito menor que a força gravitacional.</HR>
+<font color="green">A força gravitacional é desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, e a força elétrica é muito menor que a força gravitacional.</font>
 
 ### Exercite seu cerebro
 
-system(“color 1F”) Alguma questão e sua resolução
+ Alguma questão e sua resolução
 
 ### Curiosidades
 
-int main()
-{
-system(“color 1F”)Sobre as figuras envolvidas na formulação das duas leis
+Sobre as figuras envolvidas na formulação das duas leis
 
 ### Referências Bibliograficas
 
