@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Bem vindo
 
-You can use the [editor on GitHub](https://github.com/brunufc/eletromag.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Você pode usar o [editor on GitHub](https://github.com/brunufc/eletromag.github.io/edit/gh-pages/index.md) para manter e visualizar o conteúdo do seu site em arquivos Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sempre que você se compromete com este repositório, GitHub Pages irá executar Jekyll para reconstruir as páginas em seu site, a partir do conteúdo em seus arquivos Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown é uma sintaxe leve e fácil de usar para estilizar sua escrita. Inclui convenções para
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para obter mais detalhes, consulte [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brunufc/eletromag.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Seu site Pages usará o layout e estilos do tema Jekyll que você selecionou nas [repository settings](https://github.com/brunufc/eletromag.github.io/settings/pages). . O nome deste tema é salvo no _config.ymlarquivo de configuração do Jekyll .
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Está tendo problemas com o Pages? Verifique nossa [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) e nós o ajudaremos a resolver o problema.
