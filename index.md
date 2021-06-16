@@ -1,11 +1,3 @@
-<div class="apresentacao">
-        <div class="overlay">
-        <div class="apresentacaotext">
-          <h1>INTENSIDADE RELATIVA</h1>
-          <h2>FORÇAS GRAVITACIONAL E ELETROSTÁTICA</h2>
-        </div>
-
-
 # <CENTER>Fundamentos de Eletromagnetismo</CENTER>
 
 <P>Este trabalho visa abordar o seguinte tema:</P>
@@ -18,6 +10,10 @@ A força gravitacional é desprezível em comparação à força elétrica. Isso
 ### Exercite seu cerebro
 
 (YOUNG & FREEDMAN) Uma partícula α (o núcleo do átomo de hélio) possui massa m=6,64.10-27kg e carga q=+2e=3,2.10-19C. Compare o módulo da força de repulsão elétrica entre duas partículas α com o módulo da força de atração gravitacional entre elas.
+
+<img src="IMG210615-001.png">![IMG210615-001](https://user-images.githubusercontent.com/85965849/122139768-1a45f600-ce20-11eb-867d-8936d7b0e4b4.png)
+
+<img src="https://user-images.githubusercontent.com/85965849/122139768-1a45f600-ce20-11eb-867d-8936d7b0e4b4.png">!
 
  [IMG210615-001](https://user-images.githubusercontent.com/85965849/122131575-bf0c0780-ce0f-11eb-976b-562d1a31da1b.png)
 
