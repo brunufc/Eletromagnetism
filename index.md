@@ -1,6 +1,12 @@
-<BODY background=IMG210615-001.png>
+<div class="apresentacao">
+        <div class="overlay">
+        <div class="apresentacaotext">
+          <h1>INTENSIDADE RELATIVA</h1>
+          <h2>FORÇAS GRAVITACIONAL E ELETROSTÁTICA</h2>
+        </div>
 
- # <CENTER>Fundamentos de Eletromagnetismo</CENTER>
+
+# <CENTER>Fundamentos de Eletromagnetismo</CENTER>
 
 <P>Este trabalho visa abordar o seguinte tema:</P>
 
@@ -8,7 +14,6 @@
 
 A força gravitacional é desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, e a força elétrica é muito menor que a força gravitacional.
 
-</BODY>
 
 ### Exercite seu cerebro
 
