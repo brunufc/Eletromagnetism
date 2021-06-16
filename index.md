@@ -11,9 +11,7 @@ A força gravitacional é desprezível em comparação à força elétrica. Isso
 
 (YOUNG & FREEDMAN) Uma partícula α (o núcleo do átomo de hélio) possui massa m=6,64.10-27kg e carga q=+2e=3,2.10-19C. Compare o módulo da força de repulsão elétrica entre duas partículas α com o módulo da força de atração gravitacional entre elas.
 
-<CENTER>
-	<img src="https://user-images.githubusercontent.com/85965849/122140521-d8b64a80-ce21-11eb-82ab-7c30e792dc3c.png" NAME="figura3" ALIGN=BOTTOM WIDTH=538 HEIGHT=252 BORDER=0>
-</CENTER>
+<CENTER><img src="https://user-images.githubusercontent.com/85965849/122140521-d8b64a80-ce21-11eb-82ab-7c30e792dc3c.png" NAME="figura1" ALIGN=BOTTOM WIDTH=404 HEIGHT=190></CENTER>
 
 
 ### Curiosidades
