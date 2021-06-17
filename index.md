@@ -30,13 +30,21 @@
 Podemos Ilustrar da seguinte forma esse comportamento:
 </P>
 
-<CENTER>IMAGEM1.png</CENTER>
+<P>
+  <CENTER>
+    <img src="https://user-images.githubusercontent.com/85965849/122330857-49389680-cf0a-11eb-93ce-43b1cc1c9ca6.PNG" NAME="figura1" ALIGN=BOTTOM WIDTH=404 HEIGHT=190>
+  </CENTER>
+</P>
 
 <P>
   Podemos também realizar a quantização do sistema por meio da relação:
 </P>
 
-<CENTER>IMAGEM2.png</CENTER>
+<P>
+  <CENTER>
+    <img src="https://user-images.githubusercontent.com/85965849/122330960-7422ea80-cf0a-11eb-8035-16bc06593031.PNG" NAME="figura2" ALIGN=BOTTOM WIDTH=404 HEIGHT=190>
+  </CENTER>
+</P>
 
 <P>
   Na qual r12=|r12| é a distância entre as partículas 1 e 2. Ao passo que r12/r12 é o vetor unitário que vai da partícula 1 para a partícula 2. Explicando: A relação diz que a magnitude da força gravitacional é diretamente proporcional à massa das partículas e inversamente proporcional ao quadrado da distância que as separa. A força está dirigida em uma reta que toca as duas partículas e é sempre atrativa, nunca a forças gravitacionais de repulsão, onde a força F2(1), exercida por 1 sobre 2, está direcionada a 1, que é o sentido oposto de   fazendo com que a relação adquira o sinal negativo.
@@ -64,6 +72,11 @@ Podemos Ilustrar da seguinte forma esse comportamento:
   Existem dois tipos de cargas elétricas: positivas e negativas. As cargas elétricas de mesmo sinal se repelem, as de sinais contrários se atraem, isso ocorre devido ao spin dos elétrons.
 </P>
 </font>
+<P>
+  <CENTER>
+    <img src="https://user-images.githubusercontent.com/85965849/122331101-a6cce300-cf0a-11eb-9fe3-10b6c31e11f8.PNG" NAME="figura3" ALIGN=BOTTOM WIDTH=404 HEIGHT=190>
+  </CENTER>
+</P>
 
 ### <CENTER>Lei de Coulomb</CENTER>
 <font face="arial">
@@ -88,7 +101,7 @@ FE= k0Q1 Q2r2^r
  
 <P>
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/85965849/122140521-d8b64a80-ce21-11eb-82ab-7c30e792dc3c.png" NAME="figura1" ALIGN=BOTTOM WIDTH=404 HEIGHT=190>
+    <img src="https://user-images.githubusercontent.com/85965849/122140521-d8b64a80-ce21-11eb-82ab-7c30e792dc3c.png" NAME="figura4" ALIGN=BOTTOM WIDTH=404 HEIGHT=190>
   </CENTER>
 </P>
 </font>
