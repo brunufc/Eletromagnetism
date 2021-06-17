@@ -2,10 +2,11 @@
 <font face="arial">
 
   <P>Este trabalho visa abordar o seguinte tema:</P>
-
-## <font color="green">Intensidade Relativa das Forças Gravitacionais e Elétricas</font>
-
 </font>
+
+## <font face="arial" color="blue">Intensidade Relativa das Forças Gravitacionais e Elétricas</font>
+
+
 <P>
   <font face="arial"> Nosso trabalho visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.
   </font>
@@ -47,11 +48,9 @@ Podemos Ilustrar da seguinte forma esse comportamento:
 <P>
   O que significa esse valor de G? Quer dizer que quando temos duas partículas de 1kg separadas a 1 metro de distância temos  de atração de força gravitacional. Em quesito de comparação esse valor é ~10-5 vezes o valor da força peso de um fio de cabelo na terra, provando quão pequena é a intensidade da força gravitacional, mais fraca dentre as 4 fundamentais.
 </P>
-Curiosidade: Qual a atração gravitacional entre duas frutas? Clique aqui.
-</font>
-  
-  
-  
+Curiosidade: Qual a atração gravitacional entre duas frutas? Clique aqui.</font>
+
+
 ## <CENTER>Força Elétrica</CENTER>
 
 ### <CENTER>Carga Elétrica</CENTER>
@@ -64,6 +63,7 @@ Curiosidade: Qual a atração gravitacional entre duas frutas? Clique aqui.
   Existem dois tipos de cargas elétricas: positivas e negativas. As cargas elétricas de mesmo sinal se repelem, as de sinais contrários se atraem, isso ocorre devido ao spin dos elétrons.
 </P>
 </font>
+
 ### <CENTER>Lei de Coulomb</CENTER>
 <font face="arial">
 <P>
@@ -108,6 +108,7 @@ FE= k0Q1 Q2r2^r
 
 Sobre as figuras envolvidas na formulação das duas leis
 </font>
+
 
 ### <CENTER>Referências Bibliograficas</CENTER>
 
