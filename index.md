@@ -12,7 +12,7 @@
   Sendo a força gravitacional desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, e a força elétrica é muito menor que a força gravitacional.
 </P>
 
-## Força GravitacionaL
+## <CENTER>Força Gravitacional</CENTER>
 
 <P>
   Em uma das cartas, escritas por Issac Newton, ao Dr. Richard Bentley, Newton disse: [...]que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente[...]. No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa (quer saber um pouco mais sobre massa? Clique no link).
@@ -23,13 +23,13 @@
 Podemos Ilustrar da seguinte forma esse comportamento:
 </P>
 
-IMAGEM.png
+<CENTER>IMAGEM1.png</CENTER>
 
 <P>
   Podemos também realizar a quantização do sistema por meio da relação:
 </P>
 
-iMAGEN.png
+<CENTER>IMAGEM2.png</CENTER>
 
 <P>
   Na qual r12=|r12| é a distância entre as partículas 1 e 2. Ao passo que r12/r12 é o vetor unitário que vai da partícula 1 para a partícula 2. Explicando: A relação diz que a magnitude da força gravitacional é diretamente proporcional à massa das partículas e inversamente proporcional ao quadrado da distância que as separa. A força está dirigida em uma reta que toca as duas partículas e é sempre atrativa, nunca a forças gravitacionais de repulsão, onde a força F2(1), exercida por 1 sobre 2, está direcionada a 1, que é o sentido oposto de   fazendo com que a relação adquira o sinal negativo.
