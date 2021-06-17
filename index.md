@@ -90,14 +90,14 @@ FE= k0Q1 Q2r2^r
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   </head>
   <body>
-    <iframe width="853" height="480" src="https://youtube.com/embed/u548qyxRTBU"  allowfullscreen>
+    <iframe width="427" height="240" src="https://youtube.com/embed/u548qyxRTBU"  allowfullscreen>
     </iframe>
-    <iframe width="640" height="300" src="https://youtube.com/embed/u548qyxRTBU"  allowfullscreen>
+    <iframe width="576" height="270" src="https://youtube.com/embed/u548qyxRTBU"  allowfullscreen>
     </iframe>
   </body>
 </html>
   
- #### 2
+#### 2
   
 <object width="425" height="344" data="https://www.youtube.com/embed/F9Bo89m2f6g"></object>
   
