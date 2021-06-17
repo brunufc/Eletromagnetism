@@ -22,7 +22,7 @@
 ## <CENTER>Força Gravitacional</CENTER>
 <font face="arial">
 <P>
-  Em uma das cartas, escritas por Issac Newton, ao Dr. Richard Bentley, Newton disse: [...]que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente[...]. No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa (quer saber um pouco mais sobre massa? Clique no [link](https://youtu.be/fhCt_hWLXog).
+  Em uma das cartas, escritas por Issac Newton, ao Dr. Richard Bentley, Newton disse: [...]que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente[...]. No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa (quer saber um pouco mais sobre massa? Clique no [link](https://youtu.be/fhCt_hWLXog/).
 </P>
 
 <P>
@@ -57,7 +57,7 @@ Podemos Ilustrar da seguinte forma esse comportamento:
 <P>
   O que significa esse valor de G? Quer dizer que quando temos duas partículas de 1kg separadas a 1 metro de distância temos  de atração de força gravitacional. Em quesito de comparação esse valor é ~10-5 vezes o valor da força peso de um fio de cabelo na terra, provando quão pequena é a intensidade da força gravitacional, mais fraca dentre as 4 fundamentais.
 </P>
-<P>Curiosidade: Qual a atração gravitacional entre duas frutas? Clique [aqui](https://youtu.be/Ml97r6O_WgE).</P></font>
+<P>Curiosidade: Qual a atração gravitacional entre duas frutas? Clique [aqui](https://youtu.be/Ml97r6O_WgE/).</P></font>
 
 
 ## <CENTER>Força Elétrica</CENTER>
@@ -120,7 +120,7 @@ FE= k0Q1 Q2r2^r
 
 ### <CENTER>Referências Bibliograficas</CENTER>
 
-<p>Nossa imaginação <3</p>
+<p>Nossa imaginação! <3</p>
 
 
 ```markdown
