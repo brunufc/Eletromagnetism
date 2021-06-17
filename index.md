@@ -1,12 +1,11 @@
 # <CENTER>Fundamentos de Eletromagnetismo</CENTER>
 <font face="arial">
 
-  <P>Este trabalho visa abordar o seguinte tema:</P>
-</font>
-
+  
 ## <font face="arial" color="blue">Intensidade Relativa das Forças Gravitacionais e Elétricas</font>
 
 
+ 
 <P>
   <font face="arial"> Nosso trabalho visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.
   </font>
@@ -48,7 +47,7 @@ Podemos Ilustrar da seguinte forma esse comportamento:
 <P>
   O que significa esse valor de G? Quer dizer que quando temos duas partículas de 1kg separadas a 1 metro de distância temos  de atração de força gravitacional. Em quesito de comparação esse valor é ~10-5 vezes o valor da força peso de um fio de cabelo na terra, provando quão pequena é a intensidade da força gravitacional, mais fraca dentre as 4 fundamentais.
 </P>
-Curiosidade: Qual a atração gravitacional entre duas frutas? Clique aqui.</font>
+<P>Curiosidade: Qual a atração gravitacional entre duas frutas? Clique aqui.</P></font>
 
 
 ## <CENTER>Força Elétrica</CENTER>
@@ -82,10 +81,11 @@ FE= k0Q1 Q2r2^r
 </P>
 
 
-(YOUNG & FREEDMAN) Q2) Uma partícula α (o núcleo do átomo de hélio) possui massa m=6,64.10-27kg e carga q=+2e=3,2.10-19C. Compare o módulo da força de repulsão elétrica entre duas partículas α com o módulo da força de atração gravitacional entre elas.
+<p>(YOUNG & FREEDMAN) Q2) Uma partícula α (o núcleo do átomo de hélio) possui massa m=6,64.10-27kg e carga q=+2e=3,2.10-19C. Compare o módulo da força de repulsão elétrica entre duas partículas α com o módulo da força de atração gravitacional entre elas.</p>
 
-<CENTER><img src="https://user-images.githubusercontent.com/85965849/122140521-d8b64a80-ce21-11eb-82ab-7c30e792dc3c.png" NAME="figura1" ALIGN=BOTTOM WIDTH=404 HEIGHT=190></CENTER>
-</font>
+ 
+<P><CENTER><img src="https://user-images.githubusercontent.com/85965849/122140521-d8b64a80-ce21-11eb-82ab-7c30e792dc3c.png" NAME="figura1" ALIGN=BOTTOM WIDTH=404 HEIGHT=190></CENTER>
+</font></P>
 
 
 ### <CENTER>Curiosidades</CENTER>
@@ -103,16 +103,17 @@ FE= k0Q1 Q2r2^r
   <iframe width="576" height="270" src="https://youtube.com/embed/u548qyxRTBU"  allowfullscreen>
   </iframe>
 </body>
-</html>
 
 
-Sobre as figuras envolvidas na formulação das duas leis
+
+  <p>Sobre as figuras envolvidas na formulação das duas leis</p>
 </font>
 
 
 ### <CENTER>Referências Bibliograficas</CENTER>
 
-Nossa imaginação <3
+<p>Nossa imaginação <3</p>
+
 
 ```markdown
 Syntax highlighted code block
@@ -129,7 +130,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 ```
 
-Para obter mais detalhes, consulte [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p>Para obter mais detalhes, consulte [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).</p>
 
 
 ### <CENTER>Ressalvas</CENTER>
