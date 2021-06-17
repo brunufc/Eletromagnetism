@@ -86,12 +86,14 @@ FE= k0Q1 Q2r2^r
   <IFRAME WIDTH="420" HEIGHT="315" SRC="https://www.youtube.com/embed/T41VKdFa3eU"></IFRAME>
 </CENTER>
 <CENTER>
-  <IFRAME WIDTH="420" HEIGHT="315" SRC="https://www.youtube.com/embed/T41VKdFa3eU&autoplay=1"></IFRAME>
+  <IFRAME WIDTH="420" HEIGHT="315" SRC="https://www.youtube.com/embed/T41VKdFa3eU" autoplay=1></IFRAME>
 </CENTER>
 <CENTER>
-  <IFRAME WIDTH="420" HEIGHT="315" SRC="https://www.youtube.com/embed/T41VKdFa3eUcontrols=0"></IFRAME>
+  <IFRAME WIDTH="420" HEIGHT="315" SRC="https://www.youtube.com/embed/T41VKdFa3eU&controls=0"></IFRAME>
 </CENTER>
-
+<CENTER>
+  <IFRAME WIDTH="420" HEIGHT="315" SRC="https://www.youtube.com/embed/T41VKdFa3eU" controls=0></IFRAME>
+</CENTER>
 <html>
   <head>
     <title>Inserindo vídeos do YouTube em uma página HTML</title>
