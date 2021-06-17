@@ -22,7 +22,7 @@
 ## <CENTER>Força Gravitacional</CENTER>
 <font face="arial">
 <P>
-  Em uma das cartas, escritas por Issac Newton, ao Dr. Richard Bentley, Newton disse: [...]que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente[...]. No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa (quer saber um pouco mais sobre massa? Clique no link).
+  Em uma das cartas, escritas por Issac Newton, ao Dr. Richard Bentley, Newton disse: [...]que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente[...]. No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa (quer saber um pouco mais sobre massa? Clique no [link](https://youtu.be/fhCt_hWLXog).
 </P>
 
 <P>
