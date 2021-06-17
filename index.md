@@ -32,7 +32,7 @@ Podemos Ilustrar da seguinte forma esse comportamento:
 
 <P>
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/85965849/122330857-49389680-cf0a-11eb-93ce-43b1cc1c9ca6.PNG" NAME="figura1" ALIGN=BOTTOM WIDTH=404 HEIGHT=190>
+    <img src="https://user-images.githubusercontent.com/85965849/122330857-49389680-cf0a-11eb-93ce-43b1cc1c9ca6.PNG" NAME="figura1" ALIGN=BOTTOM WIDTH=404 HEIGHT=83>
   </CENTER>
 </P>
 
@@ -42,7 +42,7 @@ Podemos Ilustrar da seguinte forma esse comportamento:
 
 <P>
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/85965849/122330960-7422ea80-cf0a-11eb-8035-16bc06593031.PNG" NAME="figura2" ALIGN=BOTTOM WIDTH=404 HEIGHT=190>
+    <img src="https://user-images.githubusercontent.com/85965849/122330960-7422ea80-cf0a-11eb-8035-16bc06593031.PNG" NAME="figura2" ALIGN=BOTTOM WIDTH=404 HEIGHT=102>
   </CENTER>
 </P>
 
@@ -74,7 +74,7 @@ Podemos Ilustrar da seguinte forma esse comportamento:
 </font>
 <P>
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/85965849/122331101-a6cce300-cf0a-11eb-9fe3-10b6c31e11f8.PNG" NAME="figura3" ALIGN=BOTTOM WIDTH=404 HEIGHT=190>
+    <img src="https://user-images.githubusercontent.com/85965849/122331101-a6cce300-cf0a-11eb-9fe3-10b6c31e11f8.PNG" NAME="figura3" ALIGN=BOTTOM WIDTH=404 HEIGHT=103>
   </CENTER>
 </P>
 
