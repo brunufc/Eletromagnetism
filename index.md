@@ -80,6 +80,35 @@ FE= k0Q1 Q2r2^r
 
 ### <CENTER>Curiosidades</CENTER>
 
+#### 1
+
+<IFRAME WIDTH="420" HEIGHT="315" SRC="https://www.youtube.com/embed/T41VKdFa3eU"></IFRAME>
+
+<html>
+  <head>
+    <title>Inserindo vídeos do YouTube em uma página HTML</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  </head>
+  <body>
+    <iframe width="853" height="480" src="https://youtube.com/embed/u548qyxRTBU"  allowfullscreen>
+    </iframe>
+    <iframe width="640" height="300" src="https://youtube.com/embed/u548qyxRTBU"  allowfullscreen>
+    </iframe>
+  </body>
+</html>
+  
+ #### 2
+  
+<object width="425" height="344" data="https://www.youtube.com/embed/F9Bo89m2f6g"></object>
+  
+#### 3
+
+<embed src="https://www.youtube.com/embed/F9Bo89m2f6g" allowfullscreen="true" width="425" height="344">
+  
+<iframe  width="425" height="344" src="https://www.youtube.com/embed/F9Bo89m2f6g" frameborder="0" allowfullscreen></iframe>
+
+
+
 Sobre as figuras envolvidas na formulação das duas leis
 
 ### <CENTER>Referências Bibliograficas</CENTER>
