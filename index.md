@@ -4,7 +4,8 @@
   Este trabalho visa abordar o seguinte tema:
 </P>
 
-### <font color="green">Intensidade Relativa das Forças Gravitacionais e Elétricas</font>
+ ### <font color="green">Intensidade Relativa das Forças Gravitacionais e Elétricas</font>
+
 </font>
 <P>
   <font face="arial"> Nosso trabalho visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.
@@ -15,6 +16,7 @@
   Sendo a força gravitacional desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, e a força elétrica é muito menor que a força gravitacional.
 </P>
   </font>
+
 
 ## <CENTER>Força Gravitacional</CENTER>
 <font face="arial">
@@ -49,6 +51,8 @@ Podemos Ilustrar da seguinte forma esse comportamento:
 Curiosidade: Qual a atração gravitacional entre duas frutas? Clique aqui.
 </font>
   
+  
+  
 ## <CENTER>Força Elétrica</CENTER>
 
 ### <CENTER>Carga Elétrica</CENTER>
@@ -68,6 +72,7 @@ Curiosidade: Qual a atração gravitacional entre duas frutas? Clique aqui.
 FE= k0Q1 Q2r2^r
 </P>
 </font>
+
 ### <CENTER>Aplicando conceitos</CENTER>
 <font face="arial">
 <P>
@@ -82,6 +87,7 @@ FE= k0Q1 Q2r2^r
 
 <CENTER><img src="https://user-images.githubusercontent.com/85965849/122140521-d8b64a80-ce21-11eb-82ab-7c30e792dc3c.png" NAME="figura1" ALIGN=BOTTOM WIDTH=404 HEIGHT=190></CENTER>
 </font>
+
 
 ### <CENTER>Curiosidades</CENTER>
 <font face="arial">
@@ -103,6 +109,7 @@ FE= k0Q1 Q2r2^r
 
 Sobre as figuras envolvidas na formulação das duas leis
 </font>
+
 ### <CENTER>Referências Bibliograficas</CENTER>
 
 Nossa imaginação <3
@@ -123,6 +130,7 @@ Syntax highlighted code block
 ```
 
 Para obter mais detalhes, consulte [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### <CENTER>Ressalvas</CENTER>
 
