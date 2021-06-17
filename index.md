@@ -1,5 +1,4 @@
 # <CENTER>Fundamentos de Eletromagnetismo</CENTER>
-<font face="arial">
 
   
 ## <font face="arial" color="blue">Intensidade Relativa das Forças Gravitacionais e Elétricas</font>
