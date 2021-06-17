@@ -7,13 +7,10 @@
 ### <font color="green">Intensidade Relativa das Forças Gravitacionais e Elétricas</font>
 
 <P>
-  <font face="arial">Nosso trabalho visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.
+  <font face="arial+3">Nosso trabalho visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.
   </font>
 </P>
-<P>
-  <font face="open sans=+5">Nosso trabalho visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.
-  </font>
-</P>
+
 <P>
   Sendo a força gravitacional desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, e a força elétrica é muito menor que a força gravitacional.
 </P>
@@ -86,50 +83,27 @@ FE= k0Q1 Q2r2^r
 
 ### <CENTER>Curiosidades</CENTER>
 
-#### 1
 
 <CENTER>
-  <IFRAME WIDTH="420" HEIGHT="315" SRC="https://www.youtube.com/embed/T41VKdFa3eU"></IFRAME>
+  <IFRAME WIDTH="577" HEIGHT="271" SRC="https://www.youtube.com/embed/T41VKdFa3eU"></IFRAME>
 </CENTER>
-<CENTER>
-  <IFRAME WIDTH="420" HEIGHT="315" SRC="https://www.youtube.com/embed/T41VKdFa3eU" autoplay=1></IFRAME>
-</CENTER>
-<CENTER>
-  <IFRAME WIDTH="420" HEIGHT="315" SRC="https://www.youtube.com/embed/T41VKdFa3eU&controls=0"></IFRAME>
-</CENTER>
-<CENTER>
-  <IFRAME WIDTH="420" HEIGHT="315" SRC="https://www.youtube.com/embed/T41VKdFa3eU" controls=0></IFRAME>
-</CENTER>
-<html>
-  <head>
-    <title>Inserindo vídeos do YouTube em uma página HTML</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-  </head>
-  <body>
-    <iframe width="427" height="240" src="https://youtube.com/embed/u548qyxRTBU"  allowfullscreen>
-    </iframe>
-    <iframe width="576" height="270" src="https://youtube.com/embed/u548qyxRTBU"  allowfullscreen>
-    </iframe>
-  </body>
+
+<head>
+  <title>Inserindo vídeos do YouTube em uma página HTML</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+  <iframe width="576" height="270" src="https://youtube.com/embed/u548qyxRTBU"  allowfullscreen>
+  </iframe>
+</body>
 </html>
-  
-#### 2
-  
-<object width="425" height="344" data="https://www.youtube.com/embed/F9Bo89m2f6g"></object>
-  
-#### 3
-
-<embed src="https://www.youtube.com/embed/F9Bo89m2f6g" allowfullscreen="true" width="425" height="344">
-  
-<iframe  width="425" height="344" src="https://www.youtube.com/embed/F9Bo89m2f6g" frameborder="0" allowfullscreen></iframe>
-
 
 
 Sobre as figuras envolvidas na formulação das duas leis
 
 ### <CENTER>Referências Bibliograficas</CENTER>
 
-Nossa imaginação
+Nossa imaginação <3
 
 ```markdown
 Syntax highlighted code block
@@ -148,8 +122,6 @@ Syntax highlighted code block
 
 Para obter mais detalhes, consulte [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### <CENTER>Fim</CENTER>
+### <CENTER>Ressalvas</CENTER>
 
-Seu site usará o layout e estilos do tema Jekyll que você selecionou nas [repository settings](https://github.com/brunufc/eletromag.github.io/settings/pages). . O nome deste tema é salvo no _config.ymlarquivo de configuração do Jekyll .
-
-Está tendo problemas com o Pages? Verifique nossa [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) e nós o ajudaremos a resolver o problema...
+Está tendo problemas com o Pages? Verifique nossa [documentation](https://docs.github.com/categories/github-pages-basics/) ou [contact support](https://support.github.com/contact) e nós o ajudaremos a resolver o problema...
