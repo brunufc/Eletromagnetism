@@ -84,9 +84,12 @@ FE= k0Q1 Q2r2^r
 <p>(YOUNG & FREEDMAN) Q2) Uma partícula α (o núcleo do átomo de hélio) possui massa m=6,64.10-27kg e carga q=+2e=3,2.10-19C. Compare o módulo da força de repulsão elétrica entre duas partículas α com o módulo da força de atração gravitacional entre elas.</p>
 
  
-<P><CENTER><img src="https://user-images.githubusercontent.com/85965849/122140521-d8b64a80-ce21-11eb-82ab-7c30e792dc3c.png" NAME="figura1" ALIGN=BOTTOM WIDTH=404 HEIGHT=190></CENTER>
-</font></P>
-
+<P>
+  <CENTER>
+    <img src="https://user-images.githubusercontent.com/85965849/122140521-d8b64a80-ce21-11eb-82ab-7c30e792dc3c.png" NAME="figura1" ALIGN=BOTTOM WIDTH=404 HEIGHT=190>
+  </CENTER>
+</P>
+</font>
 
 ### <CENTER>Curiosidades</CENTER>
 <font face="arial">
