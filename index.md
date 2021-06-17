@@ -100,16 +100,6 @@ FE= k0Q1 Q2r2^r
   <IFRAME WIDTH="577" HEIGHT="271" SRC="https://www.youtube.com/embed/T41VKdFa3eU"></IFRAME>
 </CENTER>
 
-<head>
-  <title>Inserindo vídeos do YouTube em uma página HTML</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-</head>
-<body>
-  <iframe width="576" height="270" src="https://youtube.com/embed/u548qyxRTBU"  allowfullscreen>
-  </iframe>
-</body>
-
-
 
   <p>Sobre as figuras envolvidas na formulação das duas leis</p>
 </font>
