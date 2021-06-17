@@ -7,7 +7,13 @@
 ### <font color="green">Intensidade Relativa das Forças Gravitacionais e Elétricas</font>
 
 <P>
-  Nosso trabalho visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.</P>
+  <font face="arial">Nosso trabalho visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.
+  </font>
+</P>
+<P>
+  <font face="open sans">Nosso trabalho visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.
+  </font>
+</P>
 <P>
   Sendo a força gravitacional desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, e a força elétrica é muito menor que a força gravitacional.
 </P>
