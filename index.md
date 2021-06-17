@@ -1,10 +1,9 @@
 # <CENTER>Fundamentos de Eletromagnetismo</CENTER>
 <font face="arial">
-<P>
-  Este trabalho visa abordar o seguinte tema:
-</P>
 
- ### <font color="green">Intensidade Relativa das Forças Gravitacionais e Elétricas</font>
+  <P>Este trabalho visa abordar o seguinte tema:</P>
+
+## <font color="green">Intensidade Relativa das Forças Gravitacionais e Elétricas</font>
 
 </font>
 <P>
