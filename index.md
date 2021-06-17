@@ -1,22 +1,23 @@
 # <CENTER>Fundamentos de Eletromagnetismo</CENTER>
-
+<font face="arial">
 <P>
   Este trabalho visa abordar o seguinte tema:
 </P>
 
 ### <font color="green">Intensidade Relativa das Forças Gravitacionais e Elétricas</font>
-
+</font>
 <P>
-  <font face="arial+3">Nosso trabalho visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.
+  <font face="arial"> Nosso trabalho visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.
   </font>
 </P>
-
+<font face="arial">
 <P>
   Sendo a força gravitacional desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, e a força elétrica é muito menor que a força gravitacional.
 </P>
+  </font>
 
 ## <CENTER>Força Gravitacional</CENTER>
-
+<font face="arial">
 <P>
   Em uma das cartas, escritas por Issac Newton, ao Dr. Richard Bentley, Newton disse: [...]que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente[...]. No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa (quer saber um pouco mais sobre massa? Clique no link).
 </P>
@@ -46,11 +47,12 @@ Podemos Ilustrar da seguinte forma esse comportamento:
   O que significa esse valor de G? Quer dizer que quando temos duas partículas de 1kg separadas a 1 metro de distância temos  de atração de força gravitacional. Em quesito de comparação esse valor é ~10-5 vezes o valor da força peso de um fio de cabelo na terra, provando quão pequena é a intensidade da força gravitacional, mais fraca dentre as 4 fundamentais.
 </P>
 Curiosidade: Qual a atração gravitacional entre duas frutas? Clique aqui.
-
+</font>
+  
 ## <CENTER>Força Elétrica</CENTER>
 
 ### <CENTER>Carga Elétrica</CENTER>
-
+<font face="arial">
 <P>
   O conceito de carga vem da observação da natureza: nós observamos forças entre objetos. Carga elétrica é a propriedade dos objetos que leva a esta percepção de força, é a grandeza física que determina a intensidade das interações eletromagnéticas, da mesma forma que a massa determina a intensidade das forças gravitacionais.
 </P>
@@ -58,16 +60,16 @@ Curiosidade: Qual a atração gravitacional entre duas frutas? Clique aqui.
 <P>
   Existem dois tipos de cargas elétricas: positivas e negativas. As cargas elétricas de mesmo sinal se repelem, as de sinais contrários se atraem, isso ocorre devido ao spin dos elétrons.
 </P>
-
+</font>
 ### <CENTER>Lei de Coulomb</CENTER>
-
+<font face="arial">
 <P>
   Em 1785, Charles Augustin de Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o vetor força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais,  pode ser descrito como:
 FE= k0Q1 Q2r2^r
 </P>
-
+</font>
 ### <CENTER>Aplicando conceitos</CENTER>
-
+<font face="arial">
 <P>
   Agora que entendemos sobre duas das forças mais importantes de nossa existência, está na hora de relacioná-las. Para isso, podemos pensar em um exercício simples. Iremos calcular a intensidade da força gravitacional e elétrica em duas situações. Primeiro entre um elétron e um próton no núcleo de hidrogênio, e no segundo caso ... . Pela Lei da Gravitação Universal a intensidade da força gravitacional é dada por FG= GM mr2, enquanto pela Lei de Coulomb a intensidade da força elétrica é dada por  FE= k0|Q||q|r2.
 </P>
@@ -79,10 +81,10 @@ FE= k0Q1 Q2r2^r
 (YOUNG & FREEDMAN) Q2) Uma partícula α (o núcleo do átomo de hélio) possui massa m=6,64.10-27kg e carga q=+2e=3,2.10-19C. Compare o módulo da força de repulsão elétrica entre duas partículas α com o módulo da força de atração gravitacional entre elas.
 
 <CENTER><img src="https://user-images.githubusercontent.com/85965849/122140521-d8b64a80-ce21-11eb-82ab-7c30e792dc3c.png" NAME="figura1" ALIGN=BOTTOM WIDTH=404 HEIGHT=190></CENTER>
-
+</font>
 
 ### <CENTER>Curiosidades</CENTER>
-
+<font face="arial">
 
 <CENTER>
   <IFRAME WIDTH="577" HEIGHT="271" SRC="https://www.youtube.com/embed/T41VKdFa3eU"></IFRAME>
@@ -100,7 +102,7 @@ FE= k0Q1 Q2r2^r
 
 
 Sobre as figuras envolvidas na formulação das duas leis
-
+</font>
 ### <CENTER>Referências Bibliograficas</CENTER>
 
 Nossa imaginação <3
